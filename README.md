@@ -1,5 +1,6 @@
-#
-# Fashion Sales Analysis – Customer & Sales Insights
+## Fashion Sales Analysis – Customer & Sales Insights
+
+![Fashion Sales Analysis Overview](https://github.com/nevinka-wickramasinghe/Fashion_Sales_Analysis/blob/main/overview.webp)
 
 
 ## Project Overview
@@ -15,8 +16,6 @@ The analysis covers:
 - Store performance across regions
 
 Additionally, regression models were applied to forecast future sales trends.
-
-![Fashion Sales Analysis Overview](https://github.com/nevinka-wickramasinghe/Fashion_Sales_Analysis/blob/main/overview.webp)
 
 ## Problem Statement
 
@@ -67,3 +66,7 @@ Using **Python, Pandas, Seaborn, and Matplotlib**, a deep dive into the data was
 - Regional and **store-level performance varies**, highlighting opportunities for targeted marketing  
 - Regression-based **sales forecasts** provide a basis for future planning and inventory optimization
 
+# Technologies Used
+- **Programming Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Tools:** Jupyter Notebook, Power BI, Power Query
